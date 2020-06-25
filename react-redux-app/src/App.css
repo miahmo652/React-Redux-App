@@ -5,6 +5,8 @@
 
 
 body {
-  background-color: aqua;
-  /*background-image: url(https://baxcompany.com/wp-content/uploads/2017/08/background-quotes.jpg); */
+  
+  background-image: url(https://baxcompany.com/wp-content/uploads/2017/08/background-quotes.jpg);
+  background-size: 1000px 750px;
+  background-repeat: no-repeat;
 }
